@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" color="red">
   <h1>WEBSITE</h1>
 </div>
 
